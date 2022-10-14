@@ -1,25 +1,30 @@
-# Oh hey
+# Hey there!
 
-My name is Eli, and I am an environmentalist, music lover, collaborator, language learner, 6th grade Spelling Bee champion, aspiring paella chef, teacher, student, gardener and Peace Corps dropout. Before diving into software development, I worked as an educator and environmental services professional both in the Denver area and abroad. When I’m not at the computer, you can find me outdoors, learning a new skill, or spending time with friends and family.
+My name is Eli and I am a language learner, music lover, environmentalist, enthusiastic collaborator, 6th grade Spelling Bee champion, aspiring paella chef, teacher, student, gardener and Peace Corps dropout.
+
+Before diving into software development, I worked as an educator and environmental services professional both in the Denver area and abroad. Currently, I am focused on using object oriented programming, test driven development, agile workflows, and the Ruby on Rails framework to create and execute robust and thoughtfully-designed web applications. When I’m not at the computer, you can find me outdoors, learning a new skill, or spending time with friends and family.
 
 
-## Tech I've worked with
-Ruby
-Ruby on Rails
-ActiveRecord
-Git
-Heroku
-PostgreSQL
-Postman
-RESTful APIs
+## My Toolbox
+* Ruby
+* Rails
+* SQL
+* ActiveRecord
+* RSpec
+* Minitest
+* HTML
+* CSS
+* Bootstrap
+* Git
+* Postman
+* PostgreSQL
+* GraphQL
+* Heroku
+* CircleCI
+* GitHub Actions
+* VS Code/Atom
 
 
 ## Get in touch
-<p align="left">
-  <a href="mailto:easachs13@gmail.com" target="_blank">
-    <img alt="Gmail" src="https://img.shields.io/badge/gmail-%FFFFFF.svg?&style=for-the-badge&logo=gmail&logoColor=EA4335&color=FFFFFF" />
-  </a>
-  <a href="https://www.linkedin.com/in/easachs/“ target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</p>
+* [LinkedIn](https://www.linkedin.com/in/easachs)
+* [Calendly](https://calendly.com/easachs/15)
