@@ -1,6 +1,6 @@
 # About me
 
-Environmentalist, educator, world traveler, music lover, collaborator, lifelong language learner, tree scientist, running enthusiast, aspiring paella chef, 6th grade Spelling Bee champion, teacher, student, gardener and Peace Corps dropout.
+Environmentalist, educator, world traveler, music lover, collaborator, lifelong language learner, tree scientist, running enthusiast, aspiring paella chef, 6th grade Spelling Bee champion, teacher, student, gardener and Peace Corps volunteer.
 
 Growing up, I was always adventurous, and loved diving into big, new things and grappling with big, complex ideas. Now as a software developer, I am an enthusiastic, resilient learner and a creative, detail-oriented problem solver with a passion for collaborating with diverse teams on robust and thoughtfully-designed applications and services. Whether focusing on the larger picture, or deep in the weeds of a complicated feature, I love everything about the process of researching, working, and learning with other developers from all paths to explore new ways of doing something, and to build and maintain something great.
 
