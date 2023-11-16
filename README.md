@@ -1,18 +1,21 @@
-# About me
+# Eli Sachs
 
-Environmentalist, educator, world traveler, music lover, collaborator, lifelong language learner, tree scientist, running enthusiast, aspiring paella chef, 6th grade Spelling Bee champion, teacher, student, gardener and Peace Corps volunteer.
+Environmentalist, educator, 6th grade spelling bee champion, traveler, music lover, collaborator, language learner, running/hiking/climbing enthusiast, aspiring paella chef, gardener and former Peace Corps Togo volunteer.
 
-Growing up, I was always adventurous, and loved diving into big, new things and grappling with big, complex ideas. Now as a software developer, I am an enthusiastic, resilient learner and a creative, detail-oriented problem solver with a passion for collaborating with diverse teams on robust and thoughtfully-designed applications and services. Whether focusing on the larger picture, or deep in the weeds of a complicated feature, I love everything about the process of researching, working, and learning with other developers from all paths to explore new ways of doing something, and to build and maintain something great.
-
-Before beginning my journey as a developer, I worked in the environmental sector as an arborist, climbing and taking care of trees, and as an educator, teaching languages (English, Spanish and French) and planning and facilitating trainings about environmental, health, and other community issues both abroad in Spain and Togo as well as locally in Denver, CO.
-
-When I’m not at the computer, you can find me outdoors, learning a new skill, or spending time with friends and family.
+I'm a fullstack software developer based in Denver, CO with a focus on backend engineering, Ruby on Rails, React and working with APIs. Prior to software development, I worked in the educational and environmental sectors teaching languages and ecology, managing international development projects, and conducting trainings on environmental, health and social issues both abroad in Spain and Togo as well as locally in Denver, CO.
 
 
-## My Toolbox
+## Toolbox
 * Ruby
+* Javascript
+* Python
 * Rails
+* Node
+* React
+* Django
 * SQL
+* TailwindCSS
+* Bootstrap
 * ActiveRecord
 * RSpec
 * Minitest
@@ -27,6 +30,10 @@ When I’m not at the computer, you can find me outdoors, learning a new skill, 
 * CircleCI
 * GitHub Actions
 * VS Code
+* Devise
+* Redis
+* ActiveAdmin
+* Google Analytics
 * and more...
 
 
